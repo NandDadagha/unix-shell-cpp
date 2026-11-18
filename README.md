@@ -4,6 +4,12 @@ A lightweight Unix-like command-line shell implemented in **C++23**. The project
 
 > This is an educational shell, not a drop-in replacement for Bash or POSIX `sh`.
 
+## Project Demo
+
+Watch the complete demonstration of my Custom Unix Shell.
+
+[![Custom Unix Shell Demo](https://img.youtube.com/vi/5F2M35WsK9g/0.jpg)](https://www.youtube.com/watch?v=5F2M35WsK9g)
+
 ## Features implemented
 
 - **Interactive prompt** powered by GNU Readline.
